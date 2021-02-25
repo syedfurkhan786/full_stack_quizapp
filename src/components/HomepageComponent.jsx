@@ -37,7 +37,7 @@ class HomepageComponent extends Component{
     render(){
         return(
             <div className="container">
-                <h3>Welcome to Whiz Quiz</h3>
+                <h3>Welcome to Quiz App</h3>
                 <br/>
                 <h4>Registered Users</h4>
                 <div className="container">
